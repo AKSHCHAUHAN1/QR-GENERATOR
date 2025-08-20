@@ -29,9 +29,9 @@ To run this project locally, follow these simple steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/qr-generator.git
+   git clone https://github.com/AKSHCHAUHAN1/QR-GENERATOR.git
 2. Navigate to the project directory:
     ```bash
-    cd qr-generator
+    cd QR-GENERATOR
 3. Open the application:
 Open the index.html file in your preferred web browser.
